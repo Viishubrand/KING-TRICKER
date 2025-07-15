@@ -28,7 +28,7 @@ var link =
 var callback = () => api.sendMessage({body:` ╾━╤デ╦︻(▀̿Ĺ̯▀̿ ̿)🇮🇳 𝐀𝐃𝐌𝐈𝐍 𝐀𝐍𝐃 𝐁𝐎𝐓 𝐈𝐍𝐅𝐎𝐑𝐌𝐀𝐓𝐈𝐎𝐍 🇮🇳 
 (⌐▀͡ ̯ʖ▀)︻̷┻̿═━一-
 
-☄️Bot Name︎︎︎☄️  ${i.imgur.com/XwsHOXL.jpeg}
+☄️Bot Name︎︎︎☄️  ${https://i.postimg.cc/QM51vg0B/IMG-20250715-WA0034.jpg}
 
 🔥Bot Admin🔥☞︎︎︎☜︎︎︎✰ 𒁍͟͞»𝑲̭̭̭̭̭𝒊𝒏͡𝒈𝒐̽𝒇𝑻𝒓𝒊͜𝒄̌̌̌̌̌𝒌𝒆͡𝒓̭̭̭̭̭🥀
 
@@ -38,7 +38,7 @@ var callback = () => api.sendMessage({body:` ╾━╤デ╦︻(▀̿Ĺ̯▀̿ �
 
 ✧══════•❁❀❁•══════✧
 
-🌸Bot Prefix🌸☞︎︎︎☜︎︎︎✰ ${i.imgur.com/XwsHOXL.jpeg}
+🌸Bot Prefix🌸☞︎︎︎☜︎︎︎✰ ${https://i.postimg.cc/QM51vg0B/IMG-20250715-WA0034.jpg}
 
 ♥️Bot Owner♥️ ☞︎︎︎☜︎︎︎✰ 𒁍͟͞»𝑲̭̭̭̭̭𝒊𝒏͡𝒈𝒐̽𝒇𝑻𝒓𝒊͜𝒄̌̌̌̌̌𝒌𝒆͡𝒓̭̭̭̭̭
 
